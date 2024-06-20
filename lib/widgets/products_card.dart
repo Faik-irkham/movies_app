@@ -38,8 +38,7 @@ Widget movieCards(String imgUrl, String title, String subTitle) {
                       color: whiteColor.withOpacity(0.1),
                     ),
                   ),
-                  color: Colors.white
-                      .withOpacity(0.1), // Ubah opacity sesuai kebutuhan
+                  color: Colors.white.withOpacity(0.1),
                   borderRadius: const BorderRadius.only(
                     bottomLeft: Radius.circular(38),
                     bottomRight: Radius.circular(38),

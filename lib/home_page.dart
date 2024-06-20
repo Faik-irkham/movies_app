@@ -74,7 +74,7 @@ class HomePage extends StatelessWidget {
                       ),
                       children: [
                         TextSpan(
-                          text: ' cgiagency',
+                          text: ' Gilbert',
                           style: whiteTextStyle.copyWith(
                             fontSize: 24,
                             fontWeight: regular,
